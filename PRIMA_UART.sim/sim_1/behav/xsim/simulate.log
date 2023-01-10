@@ -1,0 +1,47 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+uart_buf = 00110001, i =  0, uart_buf[i] = 1
+uart_buf = 00110001, i =  1, uart_buf[i] = 0
+uart_buf = 00110001, i =  2, uart_buf[i] = 0
+uart_buf = 00110001, i =  3, uart_buf[i] = 0
+uart_buf = 00110001, i =  4, uart_buf[i] = 1
+uart_buf = 00110001, i =  5, uart_buf[i] = 1
+uart_buf = 00110001, i =  6, uart_buf[i] = 0
+uart_buf = 00110001, i =  7, uart_buf[i] = 0
+_
+uart_buf = 00110010, i =  0, uart_buf[i] = 0
+uart_buf = 00110010, i =  1, uart_buf[i] = 1
+uart_buf = 00110010, i =  2, uart_buf[i] = 0
+uart_buf = 00110010, i =  3, uart_buf[i] = 0
+uart_buf = 00110010, i =  4, uart_buf[i] = 1
+uart_buf = 00110010, i =  5, uart_buf[i] = 1
+uart_buf = 00110010, i =  6, uart_buf[i] = 0
+uart_buf = 00110010, i =  7, uart_buf[i] = 0
+_
+uart_buf = 00110011, i =  0, uart_buf[i] = 1
+uart_buf = 00110011, i =  1, uart_buf[i] = 1
+uart_buf = 00110011, i =  2, uart_buf[i] = 0
+uart_buf = 00110011, i =  3, uart_buf[i] = 0
+uart_buf = 00110011, i =  4, uart_buf[i] = 1
+uart_buf = 00110011, i =  5, uart_buf[i] = 1
+uart_buf = 00110011, i =  6, uart_buf[i] = 0
+uart_buf = 00110011, i =  7, uart_buf[i] = 0
+_
+uart_buf = 00110100, i =  0, uart_buf[i] = 0
+uart_buf = 00110100, i =  1, uart_buf[i] = 0
+uart_buf = 00110100, i =  2, uart_buf[i] = 1
+uart_buf = 00110100, i =  3, uart_buf[i] = 0
+uart_buf = 00110100, i =  4, uart_buf[i] = 1
+uart_buf = 00110100, i =  5, uart_buf[i] = 1
+uart_buf = 00110100, i =  6, uart_buf[i] = 0
+uart_buf = 00110100, i =  7, uart_buf[i] = 0
+_
+uart_buf = 00001101, i =  0, uart_buf[i] = 1
+uart_buf = 00001101, i =  1, uart_buf[i] = 0
+uart_buf = 00001101, i =  2, uart_buf[i] = 1
+uart_buf = 00001101, i =  3, uart_buf[i] = 1
+uart_buf = 00001101, i =  4, uart_buf[i] = 0
+uart_buf = 00001101, i =  5, uart_buf[i] = 0
+uart_buf = 00001101, i =  6, uart_buf[i] = 0
+uart_buf = 00001101, i =  7, uart_buf[i] = 0
+_

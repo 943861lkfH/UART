@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/CLK_DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLK_DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/COUNTER.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module COUNTER
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/DEVICE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DEVICE
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/LED.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LED
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/RECEIVER_uart.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RECEIVER_uart
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/TRANSCEIVER_uart.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TRANSCEIVER_uart
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/UART.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/ascii_coder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ascii_coder
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/ascii_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ascii_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sources_1/new/prima.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prima
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.srcs/sim_1/new/uart_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
