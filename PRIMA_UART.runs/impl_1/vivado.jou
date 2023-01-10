@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Dec  9 17:26:17 2022
+# Process ID: 4104
+# Current directory: M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.runs/impl_1
+# Command line: vivado.exe -log DEVICE.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source DEVICE.tcl -notrace
+# Log file: M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.runs/impl_1/DEVICE.vdi
+# Journal file: M:/2010/Vivado_2_kurs_schem/IVBO-01/Khomyakova/PLIS_UART/PLIS_UART.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source DEVICE.tcl -notrace
